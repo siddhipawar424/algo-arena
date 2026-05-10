@@ -127,12 +127,9 @@ Score Calculation + Winner Declaration
 
 **Siddhi Pawar**
 
-> Built with the mindset: *"Turn preparation into performance."*
-
 ---
 
 ## Support
 
 If you like this project, please consider giving it a ⭐ on GitHub.  
-It helps improve visibility and motivates further development.
 
